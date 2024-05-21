@@ -1,0 +1,1 @@
+i.MX 6SoloX applications processor with ARM Cortex-A9 and Cortex-M4 cores for multimedia and general-purpose processing.
