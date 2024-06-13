@@ -1,1 +1,5 @@
-Record=TopLevelDocument|FileName=Power-Sheet-1.SchDoc|SheetNumber=1
+Record=TopLevelDocument|FileName=POWER-PMIC-RK809_CODEC.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=POWER-PMIC-RK809_CODEC.SchDoc|FileName=POWER-PMIC-RK809_DC DC.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=POWER-PMIC-RK809_CODEC.SchDoc|FileName=POWER-PMIC-RK809_LDO.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=POWER-PMIC-RK809_CODEC.SchDoc|FileName=POWER-PMIC-RK809_MANAGEMENT.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=POWER-PMIC-RK809_CODEC.SchDoc|FileName=POWER_SHEET.SchDoc|SheetNumber=1
