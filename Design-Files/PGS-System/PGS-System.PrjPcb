@@ -157,7 +157,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=8
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -174,7 +174,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=9
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -185,6 +185,23 @@ GenerateClassCluster=0
 DocumentUniqueId=YIQQFPIN
 
 [Document9]
+DocumentPath=RV1126_eMMC-FLASH_SHEET.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=VQBSNXFE
+
+[Document10]
 DocumentPath=SDRAM-DDR3 INTERFACE.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -201,7 +218,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KFZNQOCC
 
-[Document10]
+[Document11]
 DocumentPath=eMMC-INTERFACE.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -218,14 +235,14 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SVKTTBSJ
 
-[Document11]
+[Document12]
 DocumentPath=ETHERNET_PHY_INTERFACE.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=10
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -235,14 +252,14 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DTLYILCD
 
-[Document12]
+[Document13]
 DocumentPath=WIFI_AP6256_SHEET.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=11
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -252,14 +269,14 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XKLKWZRL
 
-[Document13]
+[Document14]
 DocumentPath=MIPI-CSI_RXX_INTERFACE.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=12
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
