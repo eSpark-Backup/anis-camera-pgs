@@ -1,14 +1,18 @@
-Record=TopLevelDocument|FileName=eMMC-INTERFACE.SchDoc|SheetNumber=11
-Record=NoMainPathDocument|SourceDocument=eMMC-INTERFACE.SchDoc|FileName=ETHERNET_PHY_INTERFACE.SchDoc|SheetNumber=12
-Record=NoMainPathDocument|SourceDocument=eMMC-INTERFACE.SchDoc|FileName=MIPI-CSI_RXX_INTERFACE.SchDoc|SheetNumber=14
-Record=NoMainPathDocument|SourceDocument=eMMC-INTERFACE.SchDoc|FileName=POWER-PMIC-RK809_CODEC.SchDoc|SheetNumber=5
-Record=NoMainPathDocument|SourceDocument=eMMC-INTERFACE.SchDoc|FileName=POWER-PMIC-RK809_DC DC.SchDoc|SheetNumber=2
-Record=NoMainPathDocument|SourceDocument=eMMC-INTERFACE.SchDoc|FileName=POWER-PMIC-RK809_LDO.SchDoc|SheetNumber=3
-Record=NoMainPathDocument|SourceDocument=eMMC-INTERFACE.SchDoc|FileName=POWER-PMIC-RK809_MANAGEMENT.SchDoc|SheetNumber=4
-Record=NoMainPathDocument|SourceDocument=eMMC-INTERFACE.SchDoc|FileName=POWER_OVER_ETHERNET_POE.SchDoc|SheetNumber=1
-Record=NoMainPathDocument|SourceDocument=eMMC-INTERFACE.SchDoc|FileName=RV1126_DRAM_SHEET.SchDoc|SheetNumber=7
-Record=NoMainPathDocument|SourceDocument=eMMC-INTERFACE.SchDoc|FileName=RV1126_eMMC-FLASH_SHEET.SchDoc|SheetNumber=9
-Record=NoMainPathDocument|SourceDocument=eMMC-INTERFACE.SchDoc|FileName=RV1126_POWER_SHEET.SchDoc|SheetNumber=6
-Record=NoMainPathDocument|SourceDocument=eMMC-INTERFACE.SchDoc|FileName=RV1126_SARADC_SHEET.SchDoc|SheetNumber=8
-Record=NoMainPathDocument|SourceDocument=eMMC-INTERFACE.SchDoc|FileName=SDRAM-DDR3 INTERFACE.SchDoc|SheetNumber=10
-Record=NoMainPathDocument|SourceDocument=eMMC-INTERFACE.SchDoc|FileName=WIFI_AP6256_SHEET.SchDoc|SheetNumber=13
+Record=TopLevelDocument|FileName=DEBUG_PROGRAMMING_SHEET.SchDoc|SheetNumber=18
+Record=NoMainPathDocument|SourceDocument=DEBUG_PROGRAMMING_SHEET.SchDoc|FileName=eMMC-INTERFACE.SchDoc|SheetNumber=12
+Record=NoMainPathDocument|SourceDocument=DEBUG_PROGRAMMING_SHEET.SchDoc|FileName=ETHERNET_PHY_INTERFACE.SchDoc|SheetNumber=13
+Record=NoMainPathDocument|SourceDocument=DEBUG_PROGRAMMING_SHEET.SchDoc|FileName=IR-CUT_LIGHT SENSOR_SHEET.SchDoc|SheetNumber=17
+Record=NoMainPathDocument|SourceDocument=DEBUG_PROGRAMMING_SHEET.SchDoc|FileName=MIPI TO HDMI_INTERFACE.SchDoc|SheetNumber=16
+Record=NoMainPathDocument|SourceDocument=DEBUG_PROGRAMMING_SHEET.SchDoc|FileName=MIPI-CSI_RXX_INTERFACE.SchDoc|SheetNumber=15
+Record=NoMainPathDocument|SourceDocument=DEBUG_PROGRAMMING_SHEET.SchDoc|FileName=POWER-PMIC-RK809_CODEC.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=DEBUG_PROGRAMMING_SHEET.SchDoc|FileName=POWER-PMIC-RK809_DC DC.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=DEBUG_PROGRAMMING_SHEET.SchDoc|FileName=POWER-PMIC-RK809_LDO.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=DEBUG_PROGRAMMING_SHEET.SchDoc|FileName=POWER-PMIC-RK809_MANAGEMENT.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=DEBUG_PROGRAMMING_SHEET.SchDoc|FileName=POWER_OVER_ETHERNET_POE.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=DEBUG_PROGRAMMING_SHEET.SchDoc|FileName=RV1126_DRAM_SHEET.SchDoc|SheetNumber=7
+Record=NoMainPathDocument|SourceDocument=DEBUG_PROGRAMMING_SHEET.SchDoc|FileName=RV1126_eMMC-FLASH_SHEET.SchDoc|SheetNumber=9
+Record=NoMainPathDocument|SourceDocument=DEBUG_PROGRAMMING_SHEET.SchDoc|FileName=RV1126_OSC-PLL-PMUIO.SchDoc|SheetNumber=10
+Record=NoMainPathDocument|SourceDocument=DEBUG_PROGRAMMING_SHEET.SchDoc|FileName=RV1126_POWER_SHEET.SchDoc|SheetNumber=6
+Record=NoMainPathDocument|SourceDocument=DEBUG_PROGRAMMING_SHEET.SchDoc|FileName=RV1126_SARADC_SHEET.SchDoc|SheetNumber=8
+Record=NoMainPathDocument|SourceDocument=DEBUG_PROGRAMMING_SHEET.SchDoc|FileName=SDRAM-DDR3 INTERFACE.SchDoc|SheetNumber=11
+Record=NoMainPathDocument|SourceDocument=DEBUG_PROGRAMMING_SHEET.SchDoc|FileName=WIFI_AP6256_SHEET.SchDoc|SheetNumber=14
