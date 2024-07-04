@@ -1,0 +1,1 @@
+eMMC=DATA[7..0],CLK,CMD,RST
