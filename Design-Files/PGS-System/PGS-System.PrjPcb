@@ -66,7 +66,7 @@ GenerateClassCluster=0
 DocumentUniqueId=OKKGVASK
 
 [Document2]
-DocumentPath=POWER-PMIC-RK809_DC DC.SchDoc
+DocumentPath=POWER_PMIC_RK809_DC DC.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -83,7 +83,7 @@ GenerateClassCluster=0
 DocumentUniqueId=KZYSBLIQ
 
 [Document3]
-DocumentPath=POWER-PMIC-RK809_LDO.SchDoc
+DocumentPath=POWER_PMIC_RK809_LDO.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -100,7 +100,7 @@ GenerateClassCluster=0
 DocumentUniqueId=BOCQFXQH
 
 [Document4]
-DocumentPath=POWER-PMIC-RK809_MANAGEMENT.SchDoc
+DocumentPath=POWER_PMIC_RK809_MANAGEMENT.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -117,7 +117,7 @@ GenerateClassCluster=0
 DocumentUniqueId=FYOGPMSM
 
 [Document5]
-DocumentPath=POWER-PMIC-RK809_CODEC.SchDoc
+DocumentPath=POWER_PMIC_RK809_CODEC.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -134,6 +134,23 @@ GenerateClassCluster=0
 DocumentUniqueId=PQDXNKZX
 
 [Document6]
+DocumentPath=POWER_LDO_SHEET.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=21
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=OPQLQFAP
+
+[Document7]
 DocumentPath=RV1126_POWER_SHEET.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -150,7 +167,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XTLGFLCB
 
-[Document7]
+[Document8]
 DocumentPath=RV1126_DRAM_SHEET.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -167,7 +184,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JFTXJAGG
 
-[Document8]
+[Document9]
 DocumentPath=RV1126_SARADC_SHEET.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -184,7 +201,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YIQQFPIN
 
-[Document9]
+[Document10]
 DocumentPath=RV1126_AUDIO_SHEET.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -201,7 +218,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JFVAMSIH
 
-[Document10]
+[Document11]
 DocumentPath=RV1126_eMMC_SPI-FLASH_SHEET.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -218,7 +235,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VQBSNXFE
 
-[Document11]
+[Document12]
 DocumentPath=RV1126_OSC-PLL-PMUIO.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -235,7 +252,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ZWSLWPNJ
 
-[Document12]
+[Document13]
 DocumentPath=DDR3_SDRAM_INTERFACE.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -252,7 +269,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KFZNQOCC
 
-[Document13]
+[Document14]
 DocumentPath=eMMC_INTERFACE.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -269,7 +286,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SVKTTBSJ
 
-[Document14]
+[Document15]
 DocumentPath=SPI_FLASH_INTERFACE.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -286,7 +303,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DWPEWTBP
 
-[Document15]
+[Document16]
 DocumentPath=ETHERNET_PHY_INTERFACE.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -303,7 +320,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DTLYILCD
 
-[Document16]
+[Document17]
 DocumentPath=WIFI_AP6256_SHEET.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -320,7 +337,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XKLKWZRL
 
-[Document17]
+[Document18]
 DocumentPath=MIPI-CSI_RXX_INTERFACE.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -337,7 +354,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KESPWIZR
 
-[Document18]
+[Document19]
 DocumentPath=MIPI TO HDMI_MODULE_INTERFACE.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -354,7 +371,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SQVXEXRF
 
-[Document19]
+[Document20]
 DocumentPath=DIGITAL_MEMS_MIC_INTERFACE.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -371,7 +388,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JRYMOQGM
 
-[Document20]
+[Document21]
 DocumentPath=IR-CUT_LIGHT SENSOR_SHEET.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -388,7 +405,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ETFSOYUQ
 
-[Document21]
+[Document22]
 DocumentPath=DEBUG_PROGRAMMING_SHEET.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -405,25 +422,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=APSCXPIB
 
-[Document22]
-DocumentPath=POWER-PMIC-RK809_CODEC.Harness
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
 [Document23]
-DocumentPath=POWER-PMIC-RK809_MANAGEMENT.Harness
+DocumentPath=POWER_PMIC_RK809_CODEC.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -440,7 +440,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document24]
-DocumentPath=eMMC_INTERFACE.Harness
+DocumentPath=POWER_PMIC_RK809_MANAGEMENT.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -457,7 +457,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document25]
-DocumentPath=RV1126_eMMC_SPI-FLASH_SHEET.Harness
+DocumentPath=eMMC_INTERFACE.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -474,7 +474,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document26]
-DocumentPath=SPI_FLASH_INTERFACE.Harness
+DocumentPath=RV1126_eMMC_SPI-FLASH_SHEET.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -491,7 +491,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document27]
-DocumentPath=RV1126_DRAM_SHEET.Harness
+DocumentPath=SPI_FLASH_INTERFACE.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -508,7 +508,41 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document28]
+DocumentPath=RV1126_DRAM_SHEET.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document29]
 DocumentPath=DDR3_SDRAM_INTERFACE.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document30]
+DocumentPath=RV1126_OSC-PLL-PMUIO.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
