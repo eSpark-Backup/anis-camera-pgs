@@ -9,3 +9,4 @@ It is required to develop a camera based parking guidance system similar to the 
 - High brightness LED should be given as to indicate in different scenarios to the user.
 - The stream will be passed through ethernet interface.
 - The camera will be PoE powered. The PoE configuration will be used in cascaded form as to further connect multiple PGS system.
+- The product will have a decent powered speaker as well.
